@@ -5,3 +5,5 @@ stage ("transfer file"){
         }
         
         video link: https://www.youtube.com/watch?v=lmRhhArh0Sg
+                
+        var2=+ mainJobName + "-1.0.0.jar"
